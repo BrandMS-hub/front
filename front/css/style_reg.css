@@ -128,7 +128,6 @@ main {
 	display: block;
 }
 
-/* ----- -----  Estilos para Validacion ----- ----- */
 .formulario__grupo-correcto .formulario__validacion-estado {
 	color: #1ed12d;
 	opacity: 1;
@@ -148,7 +147,7 @@ main {
 }
 
 
-/* ----- -----  Mediaqueries ----- ----- */
+/* ----- -----  Responsive Mediaquery ----- ----- */
 @media screen and (max-width: 800px) {
 	.formulario {
 		grid-template-columns: 1fr;
